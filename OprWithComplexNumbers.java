@@ -1,9 +1,3 @@
-/*------------------------------------------------------
-My name: Daniel Parise
-My subject code: CSIT111
-Assignment number: 2
--------------------------------------------------------*/
-
 import java.util.Scanner;
 
 class OprWithComplexNumbers { 
